@@ -8,8 +8,6 @@ public class App01GamingBasicJava {
 
     public static void main(String[] args) {
 
-        //var context = AnnotationConfigApplicationContext()
-
         //var game = new MarioGame();
         //var game = new SuperContraGame();
         var game = new PacmanGame(); //1: Object Creation
